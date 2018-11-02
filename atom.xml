@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Haojen</title>
-  <icon>https://www.gravatar.com/avatar/73d9f5e835e1fe3f26ab6aed46d01719</icon>
+  <title>Qingyun</title>
+  <icon>https://www.gravatar.com/avatar/8b430935aed385e731d9e4ee52251a83</icon>
   
   <link href="/atom.xml" rel="self"/>
   
@@ -10,8 +10,8 @@
   <id>http://haojen.github.io/</id>
   
   <author>
-    <name>Haojen Ma</name>
-    <email>HaojenMa@gmail.com</email>
+    <name>Qingyun</name>
+    <email>chenxingjing.china@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
