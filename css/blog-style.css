@@ -488,9 +488,10 @@ a:focus {
 
 .post-preview > a > .post-title {
     font-size: 21px;
-    line-height: 1.3;
+    line-height: 1.7;
     margin-top: 30px;
-     margin-bottom:0;
+    margin-bottom: 0;
+    font-weight: 700;
 }
 
 .post-preview > a > .post-subtitle {
